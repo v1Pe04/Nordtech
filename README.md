@@ -1,6 +1,8 @@
 # 📱 Nordtech
 Final exam task made for Development task for Hadsel VGS avd. Stokmarknes
 
+https://img.shields.io/github/repo-size/v1Pe04/Nordtech?style=for-the-badge
+
 ## Installation ✔️
 - Make the "Nordtech" folder the root folder of your web host since this is where the index.php file is.
 - Import the "maildb.sql" file into any database of your choise
